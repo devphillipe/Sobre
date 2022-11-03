@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**devphillipe/devphillipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Eu sou o Phillipe Lacerda 🖐️
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Phillipe GitHub stats](https://github-readme-stats.vercel.app/api?username=devphillipe&show_icons=true&theme=dracula)
 
-Here are some ideas to get you started:
+## Tecnologias que estou estudando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style='display in line block'>
+  <img  align= 'center' alt='JavaScript' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'/>
+  <img  align= 'center' alt='React Native' src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
+  <img  align= 'center' alt='React' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
+</div><br>
+
+Apaixonado por tecnologia e estudante de programação, com o sonho de se tornar um grande programador.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
