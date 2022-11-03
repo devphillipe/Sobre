@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou o Phillipe Lacerda 🖐️
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-![Phillipe GitHub stats](https://github-readme-stats.vercel.app/api?username=devphillipe&show_icons=true&theme=dracula)
+![Phillipe GitHub stats](https://github-readme-stats.vercel.app/api?username=devphillipe&show_icons=true&theme=synthwave)
 
 ## Tecnologias que estou estudando
 
