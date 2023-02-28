@@ -9,6 +9,6 @@
   <img  align= 'center' alt='Amazon AWS' src='https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white'/>
 </div><br>
 
-Apaixonado por tecnologia e estudante de programação, com o sonho de se tornar um grande programador.
+Apaixonado por tecnologia e estudante de CLOUD, com o sonho de se tornar um grande arquiteto de soluções.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
