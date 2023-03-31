@@ -11,6 +11,6 @@
 </div><br>
 
 
-Apaixonado por tecnologia e estudante de CLOUD, com o sonho de se tornar um grande arquiteto de soluções.
+Apaixonado por tecnologia e estudante de CLOUD e automações em Python.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
